@@ -1,1 +1,1 @@
-# TreeHouse-FSJS-Project1
+# TreeHouse Full Stack Javascript Project1
